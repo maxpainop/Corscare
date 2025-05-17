@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.43.34808.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/maxpa/source/repos/game/game/overworld.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "56916970e29db921866772217ff701ca7b5d5b90e6f8880e6c4d501e4f955960"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/maxpa/source/repos/game/game/main.h"
+          },
+          "hashes": {
+            "sha-256": "d466c4db8cc3c3711e7477f8a9432dce2f2653a8bb23bebde4f379f2b2a628da"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/maxpa/source/repos/game/game/tiles.h"
+          },
+          "hashes": {
+            "sha-256": "14e1cf92ee08abbd6115e81edcee9d01fc694fcf50b66e142eefa3083e017258"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/maxpa/source/repos/game/game/overworld.h"
+          },
+          "hashes": {
+            "sha-256": "61ec602bc69603424a3de9182f1556c5eefce53f5a646f93f6f79f1494c65436"
+          }
+        }
+      ]
+    }
+  ]
+}

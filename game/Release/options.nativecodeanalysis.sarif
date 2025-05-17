@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.32.31332.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/maxpa/source/repos/game/game/options.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "3f24c9525504e9ed11211092b68d1d532f119162e9bcecef28d103380cad668a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/maxpa/source/repos/game/game/main.h"
+          },
+          "hashes": {
+            "sha-256": "d466c4db8cc3c3711e7477f8a9432dce2f2653a8bb23bebde4f379f2b2a628da"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/maxpa/source/repos/game/game/tiles.h"
+          },
+          "hashes": {
+            "sha-256": "14e1cf92ee08abbd6115e81edcee9d01fc694fcf50b66e142eefa3083e017258"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/maxpa/source/repos/game/game/options.h"
+          },
+          "hashes": {
+            "sha-256": "aeba33c2c593b471f5b9f9ab685fe900e793e6fda1353f7d2dc5b91fe6525cf3"
+          }
+        }
+      ]
+    }
+  ]
+}

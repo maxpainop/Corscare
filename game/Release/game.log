@@ -1,0 +1,24 @@
+﻿  collision.c
+  exityesnoscreen.c
+  lvl1.c
+C:\Users\maxpa\source\repos\game\game\lvl1.c(208,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\maxpa\source\repos\game\game\lvl1.c(423,5): warning C4102: 'skip': unreferenced label
+  main.c
+  miniz.c
+  openingsplashscreen.c
+  options.c
+  overworld.c
+  overwritesavedatayesnoscreen.c
+  stb_vorbis.c
+  titlescreen.c
+  Running Code Analysis for C/C++...
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 191 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  game.vcxproj -> C:\Users\maxpa\source\repos\game\Release\game.exe
+C:\Users\maxpa\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\maxpa\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\Users\maxpa\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).
+C:\Users\maxpa\source\repos\game\game\lvl1.c(514): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\maxpa\source\repos\game\game\main.c(797): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).

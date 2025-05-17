@@ -1,0 +1,9 @@
+﻿  main.c
+  game.vcxproj -> C:\Users\maxpa\source\repos\game\x64\Debug\game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+C:\Users\maxpa\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\maxpa\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\Users\maxpa\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).
+C:\Users\maxpa\source\repos\game\game\lvl1.c(515): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\maxpa\source\repos\game\game\main.c(797): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).

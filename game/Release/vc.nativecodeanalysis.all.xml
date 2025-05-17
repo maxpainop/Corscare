@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\maxpa\source\repos\game\game\</FILEPATH>
+      <FILENAME>collision.c</FILENAME>
+      <LINE>107</LINE>
+      <COLUMN>101</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>checkRectWithinDistance</FUNCTION>
+    <DECORATED>checkRectWithinDistance</DECORATED>
+    <FUNCLINE>91</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\maxpa\source\repos\game\game\</FILEPATH>
+      <FILENAME>collision.c</FILENAME>
+      <LINE>107</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>checkRectWithinDistance</FUNCTION>
+    <DECORATED>checkRectWithinDistance</DECORATED>
+    <FUNCLINE>91</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\maxpa\source\repos\game\game\</FILEPATH>
+      <FILENAME>collision.c</FILENAME>
+      <LINE>107</LINE>
+      <COLUMN>52</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>checkRectWithinDistance</FUNCTION>
+    <DECORATED>checkRectWithinDistance</DECORATED>
+    <FUNCLINE>91</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\maxpa\source\repos\game\game\</FILEPATH>
+      <FILENAME>lvl1.c</FILENAME>
+      <LINE>514</LINE>
+      <COLUMN>49</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>EnemyAIlevel1</FUNCTION>
+    <DECORATED>EnemyAIlevel1</DECORATED>
+    <FUNCLINE>459</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\maxpa\source\repos\game\game\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>797</LINE>
+      <COLUMN>85</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>Blitstringtobuffer</FUNCTION>
+    <DECORATED>Blitstringtobuffer</DECORATED>
+    <FUNCLINE>786</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
