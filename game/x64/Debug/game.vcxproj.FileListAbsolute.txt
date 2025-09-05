@@ -1,6 +1,0 @@
-C:\Users\maaz-\source\repos\game\x64\Debug\game.exe.lastcodeanalysissucceeded
-C:\Users\maaz-\source\repos\game\game\x64\Debug\NativeCodeAnalysis.read.1.tlog
-C:\Users\maxpa\source\repos\game\x64\Debug\game.exe.lastcodeanalysissucceeded
-C:\Users\maxpa\source\repos\game\game\x64\Debug\NativeCodeAnalysis.read.1.tlog
-C:\Users\maxpainop\source\repos\game\x64\Debug\game.exe.lastcodeanalysissucceeded
-C:\Users\maxpainop\source\repos\game\game\x64\Debug\NativeCodeAnalysis.read.1.tlog

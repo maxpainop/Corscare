@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+bld/
+x64/
+x86/
+[Oo]bj/
+[Bb]in/
+
+# Compiler/intermediate
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.pch
+*.sbr
+*.ipch
+*.tmp
+*.cachefile
+*.opendb
+*.VC.db
+*.VC.opendb
+*.sarif
+
+# Libraries / binaries
+*.exe
+*.dll
+*.lib
+
+# Archives
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Keep your asset folders tracked
+!assets/
+!images/
