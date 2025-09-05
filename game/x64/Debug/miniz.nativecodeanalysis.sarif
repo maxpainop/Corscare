@@ -7,8 +7,8 @@
       "tool": {
         "driver": {
           "name": "PREfast",
-          "fullName": "PREfast Code Analysis",
-          "version": "14.43.34808.0",
+          "fullName": "MSVC Code Analysis",
+          "version": "14.44.35215.0",
           "informationUri": "https://aka.ms/cpp/ca"
         }
       },
@@ -20,7 +20,7 @@
       "artifacts": [
         {
           "location": {
-            "uri": "file:///c:/users/maxpa/source/repos/game/game/miniz.c"
+            "uri": "file:///c:/users/maxpainop/source/repos/game/game/miniz.c"
           },
           "roles": [
             "analysisTarget"
@@ -31,7 +31,7 @@
         },
         {
           "location": {
-            "uri": "file:///c:/users/maxpa/source/repos/game/game/miniz.h"
+            "uri": "file:///c:/users/maxpainop/source/repos/game/game/miniz.h"
           },
           "hashes": {
             "sha-256": "373bd6e6b7c8de54d589c53d5da8c5d44cb22717c8a6b53861e4244dc7c4ebd9"

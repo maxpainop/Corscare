@@ -1,9 +1,25 @@
-﻿  main.c
-  game.vcxproj -> C:\Users\maxpa\source\repos\game\x64\Debug\game.exe
+﻿  collision.c
+  exityesnoscreen.c
+  lvl1.c
+  main.c
+C:\Users\maxpainop\source\repos\game\game\lvl1.c(208,28): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\maxpainop\source\repos\game\game\lvl1.c(423,1): warning C4102: 'skip': unreferenced label
+C:\Users\maxpainop\source\repos\game\game\lvl1.c(501,9): warning C4013: 'playertakedamage' undefined; assuming extern returning int
+  miniz.c
+  openingsplashscreen.c
+  options.c
+  overworld.c
+  overwritesavedatayesnoscreen.c
+  playerlogic.c
+  stb_vorbis.c
+  titlescreen.c
+  Running Code Analysis for C/C++...
+  Generating Code...
+  game.vcxproj -> C:\Users\maxpainop\source\repos\game\x64\Debug\game.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
-C:\Users\maxpa\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
-C:\Users\maxpa\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
-C:\Users\maxpa\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).
-C:\Users\maxpa\source\repos\game\game\lvl1.c(515): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
-C:\Users\maxpa\source\repos\game\game\main.c(797): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\Users\maxpainop\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\maxpainop\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\Users\maxpainop\source\repos\game\game\collision.c(107): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).
+C:\Users\maxpainop\source\repos\game\game\lvl1.c(515): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\maxpainop\source\repos\game\game\main.c(797): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
